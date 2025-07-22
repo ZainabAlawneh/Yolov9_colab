@@ -5,12 +5,11 @@ Modified YOLOv9 for Google Colab Compatibility  This repository is based on the 
 
 1. Open the Colab notebook .
 2. Run this code:
-   !git clone https://github.com/ZainabAlawneh/Yolov9_colab.git
-    %cd yolov9
-    !pip install -r requirements.txt -q
+   #!git clone https://github.com/ZainabAlawneh/Yolov9_colab.git
+    #%cd yolov9
+    #!pip install -r requirements.txt -q
 
 ## 📁 Modified Files
-#change1
 
 1. training.py
 2. plots.py
